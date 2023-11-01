@@ -1,4 +1,5 @@
-# Project Title
+# Data Analysis and Insights from Global Terrorism Database
+
 
 ## Objective
 
@@ -23,14 +24,14 @@ The Global Terrorism Database (GTD) is a comprehensive dataset containing inform
 
 ### Major Attacks Trend:
 
-[Insert image/link to the scatterplot here]
+
 
 - The plot showed a gradual increase in major attacks from the 1970s until the early 2000s, followed by relative stability.
 - However, recent years saw a sharp increase in major attacks, with a significant spike in 2014 and 2015.
 
 ### Minor Attacks Trend:
 
-[Insert image/link to the scatterplot here]
+
 
 - The plot displayed a steady increase in minor attacks from the 1970s until the early 2000s, followed by relative stability.
 - Recent years also witnessed a sudden surge in minor attacks, similar to the trend in major attacks.
